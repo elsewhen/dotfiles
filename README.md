@@ -1,2 +1,2 @@
-# vscode
-VS Code setup and configurations
+# dotfiles
+Contains editor settings & dot files
