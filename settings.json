@@ -1,1 +1,43 @@
 
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.settings.openDefaultSettings": true,
+    "python.pythonPath": "C:\\Users\\ankbhatt1\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "Source Code Pro",
+    "debug.console.fontFamily": "Source Code Pro",
+    "debug.console.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "600",
+    "terminal.integrated.shellArgs.windows": [
+        //"-ExecutionPolicy",
+        //"Bypass",
+        "-l"
+    ],
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "[plaintext]": {
+        "editor.quickSuggestions": false
+    },
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.env.windows": {
+        "CHERE_INVOKING": "1"
+    },
+    "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+    "git.autofetch": true,
+    //"python.terminal.activateEnvironment": false
+}
